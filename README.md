@@ -1,5 +1,5 @@
 # Python_NLP_project
-Trump political campaign analysis
+Trump political campaign analysis using text mining techniques.
 
 In this project , I analysed Trump's 2017 to 2020 political campaign.
 The data contains transcripts from his 103 rallies ( the transcripts capture all his speech as well as crowd reactions).
