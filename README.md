@@ -1,4 +1,6 @@
 # Python_NLP_project
+
+( this project is still in progress for last part, BertTopic hyperparatmer tuning with Optuna + pluging an LLM for topics vizualization ....)
 Trump political campaign analysis using text mining techniques.
 
 In this project , I analysed Trump's 2017 to 2020 political campaign.
