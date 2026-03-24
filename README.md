@@ -1,9 +1,10 @@
 # Python_NLP_project
 
 ( this project is still in progress for last part, BertTopic hyperparatmer tuning with Optuna + pluging an LLM for topics vizualization ....)
+
 Trump political campaign analysis using text mining techniques.
 
-In this project , I analysed Trump's 2017 to 2020 political campaign.
+In this project , I analysed Trump's 2017 to 2020 political campaign using text mining techniques
 The data contains transcripts from his 103 rallies ( the transcripts capture all his speech as well as crowd reactions).
 
 My business case was to work for the democratic party and try to gather information about how Trump represent them as well as mainly Joe Biden.
