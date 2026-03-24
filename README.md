@@ -2,6 +2,8 @@
 
 ( this project is still in progress for last part, BertTopic hyperparatmer tuning with Optuna + pluging an LLM for topics vizualization ....)
 
+Downlaod raw ipnyb notebook to open file
+
 Trump political campaign analysis using text mining techniques.
 
 In this project , I analysed Trump's 2017 to 2020 political campaign using text mining techniques
