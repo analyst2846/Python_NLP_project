@@ -1,8 +1,5 @@
 # Python_NLP_project
 
-( this project is still in progress for last part, BertTopic hyperparatmer tuning with Optuna + pluging an LLM for topics vizualization ....)
-
-Downlaod raw ipnyb notebook to open file
 
 Trump political campaign analysis using text mining techniques.
 
